@@ -1,0 +1,10 @@
+
+.carousel-item{
+    min-height: 600px;
+}
+.row img{
+    width: 300px;
+}
+.navbar-brand img{
+    width: 120px;
+}
